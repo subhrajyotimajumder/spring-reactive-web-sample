@@ -1,5 +1,5 @@
 # Spring 5 Functional Reactor Web Sample
-It contain a sample application on Car search using spring web reactor framweork and spring data mongo.
+This repo contain a sample application on Car search using spring web reactor framweork, Spring boot and spring data mongo.
 
 There are two api available - 
   1. /car  - Retrieve all cars from database
